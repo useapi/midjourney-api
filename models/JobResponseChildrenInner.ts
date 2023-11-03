@@ -52,6 +52,10 @@ export enum JobResponseChildrenInnerButtonEnum {
     VarySubtle = 'Vary (Subtle)',
     ZoomOut15x = 'Zoom Out 1.5x',
     ZoomOut2x = 'Zoom Out 2x',
+    Upscale2x = 'Upscale (2x)',
+    Upscale4x = 'Upscale (4x)',
+    RedoUpscale2x = 'Redo Upscale (2x)',
+    RedoUpscale4x = 'Redo Upscale (4x)',   
     MakeSquare = 'Make Square',
     MakeVariations = 'Make Variations',
     Remaster = 'Remaster'

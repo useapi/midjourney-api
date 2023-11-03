@@ -1,6 +1,6 @@
 {
   "name": "@useapi/midjourney-api",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "TypeScript client library for Midjourney API by useapi.net",
   "author": "https://useapi.net",
   "keywords": [
